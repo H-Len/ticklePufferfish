@@ -1,0 +1,41 @@
+body {
+  background-color: #967bb8;
+}
+
+.container {
+  text-align: center;
+}
+
+p {
+  margin: 10px;
+  padding: 10px;
+  border: solid 5px black;
+  border-style: double;
+}
+
+img  {
+  border: dotted 5px purple;
+  border-radius: 50%;
+}
+
+#hideImg {
+  color: blue;
+}
+
+#hideImg:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+#showImg {
+  color: blue;
+}
+
+#showImg:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.excitedFish {
+  display: none;
+}
