@@ -31,3 +31,24 @@ img  {
 .excitedFish {
   display: none;
 }
+
+.goldenrod-background {
+  background-color: #F2B50D;
+  }
+
+.red-background {
+  background-color: #F20D29;
+}
+
+.green-background {
+  background-color: #4DEC8A;
+}
+
+.lavender-background {
+  background-color: #967bb8;
+}
+
+.btn {
+  border: solid 5px black;
+  border-radius: 75%;
+}
