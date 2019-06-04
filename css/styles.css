@@ -18,23 +18,15 @@ img  {
   border-radius: 50%;
 }
 
-#hideImg {
+.imgToggle {
   color: blue;
 }
 
-#hideImg:hover {
+.imgToggle:hover {
   text-decoration: underline;
   cursor: pointer;
 }
 
-#showImg {
-  color: blue;
-}
-
-#showImg:hover {
-  text-decoration: underline;
-  cursor: pointer;
-}
 
 .excitedFish {
   display: none;

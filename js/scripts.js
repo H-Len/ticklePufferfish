@@ -1,6 +1,6 @@
 $(document).ready(function() {
-  $("#showImg").click(function() {
-    $(".excitedFish").show();
-    $(".chillFish").hide();
+  $(".imgToggle").click(function() {
+    $(".excitedFish").toggle();
+    $(".chillFish").toggle();
   });
 });
